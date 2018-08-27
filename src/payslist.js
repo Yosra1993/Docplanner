@@ -1,7 +1,7 @@
 import React from 'react';
 import Section_5 from './section_5';
 
-const Payslist=(props)=>
+const Payslist=props=>
 {
     return (
         props.payslist.map((elm,i) =>
