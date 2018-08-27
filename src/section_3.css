@@ -1,0 +1,19 @@
+ul{
+    list-style-type:none;
+    display: flex;
+}
+.Section_3
+{
+    display: flex;
+}
+.titre_link
+{
+    font-size: 181%;
+    width: 29%;
+    color: #00b39b;
+}
+.links
+{
+    margin-left: -8%;
+    padding: 9%;
+}

@@ -1,0 +1,67 @@
+.titre
+{
+  text-align: center;
+  
+}
+.logo
+{
+  width: 3%;
+  margin-top: 9%;
+
+
+}
+h1{
+  font-weight: normal;
+  color: #00b39b
+}
+
+.section_1
+{
+  display: flex;
+  color: gray;
+
+}
+p
+{
+    line-height: 150%;
+    width: 75%;
+    padding: 4%;
+}
+.section_2
+{
+  display: flex;
+  
+}
+select
+{
+  position: absolute;
+  width: 10%;
+  height: 9%;
+  font-size: 67%;
+  margin-left: 4%;
+}
+.tt{
+  font-size: 246%;
+  color: #00b39b;
+}
+.desc
+{
+  font-size: 80%;
+  color: gray;
+  margin-top: -8%;
+}
+.button1
+{
+  background-color: #3d83df;
+  border-color: #3d83df;
+    color: white;
+    border-radius: 15px;
+    font-size: 64%;
+    height: 41px;
+    width: 37%;
+}
+.footer
+{
+  text-align: center;
+  font-size: 13px;
+}
